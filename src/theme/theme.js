@@ -51,6 +51,28 @@ export const greenThemeDark = {
     expimg: expGreen,
     contactsimg: contactsGreen
 }
+export const transparentTheme = {
+    type: 'transparent',
+    primary: 'transparent',
+    primary400: 'rgba(255, 255, 255, 0.4)', // Adjust transparency as needed
+    primary600: 'rgba(255, 255, 255, 0.6)',
+    primary80: 'rgba(255, 255, 255, 0.8)',
+    primary50: 'rgba(255, 255, 255, 0.5)',
+    primary30: 'rgba(255, 255, 255, 0.3)',
+    secondary: 'rgba(33, 33, 33, 0.9)',
+    secondary70: 'rgba(33, 33, 33, 0.7)',
+    secondary50: 'rgba(33, 33, 33, 0.5)',
+    tertiary: 'rgba(234, 234, 234, 0.9)',
+    tertiary80: 'rgba(234, 234, 234, 0.8)',
+    tertiary70: 'rgba(234, 234, 234, 0.7)',
+    tertiary50: 'rgba(234, 234, 234, 0.5)',
+    aboutimg1: 'transparentThemeboy', // Replace with actual image
+    aboutimg2: 'transparentThemegirl', // Replace with actual image
+    eduimg: 'eduTransparent', // Replace with actual image
+    expimg: 'expTransparent', // Replace with actual image
+    contactsimg: 'contactsTransparent' // Replace with actual image
+}
+
 export const bwThemeLight = {
     type: 'light',
     primary: '#000000',
