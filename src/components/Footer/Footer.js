@@ -1,11 +1,12 @@
 import React, { useContext } from 'react'
 import './Footer.css'
 import { ThemeContext } from '../../contexts/ThemeContext'
-import { headerData } from '../../data/headerData'
+// import { headerData } from '../../data/headerData'
 
 function Footer() {
 
-    const shortname = (name) => {
+    // eslint-disable-next-line no-unused-vars
+    const name = (name) => {
         if(name.length > 10) {
             return name.split(" ")[0]
         } else {
