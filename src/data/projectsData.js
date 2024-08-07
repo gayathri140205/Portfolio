@@ -18,7 +18,25 @@ export const projectsData = [
         demo: 'https://662fb51f820bdf330e5d6117--inspiring-zuccutto-b29727.netlify.app/',
         image: one
     },
+ {
+        id: 2,
+        projectName: 'E-Commerce Website',
+        projectDesc: 'An e-commerce platform that allows users to browse products, add them to their cart, and complete purchases. ',
+        tags: ['React', 'Node', 'JavaScript'],
+        code: 'https://github.com/gayathri140205/E-Commerce-Website.git',
+        demo: 'https://mern-shop-abxs.onrender.com/',
+        image:four
+    },
     {
+        id: 3,
+        projectName: 'Expenses Tracker App',
+        projectDesc:  'A user-friendly application that helps users to track and manage their daily expenses.',
+        tags: ['React', 'Node', 'JavaScript'],
+        code: 'https://github.com/gayathri140205/Expense-Tracker-Frontend.git',
+        demo: '  https://main.d4ed8we1flo2r.amplifyapp.com/',
+        image: three
+    },
+       {
         id: 2,
         projectName: 'TO-DO List',
         projectDesc: 'A website enabling users to organize tasks with  due dates, reminders, and completion tracking.',
