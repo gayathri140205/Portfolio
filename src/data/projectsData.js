@@ -15,7 +15,7 @@ export const projectsData = [
         projectDesc: 'An app facilitating task planning, tracking, collaboration, and milestone setting for enhanced productivity.',
         tags: ['React', 'Node', 'JavaScript'],
         code: 'https://github.com/gayathri140205/Task-Management-App.git',
-        demo: 'https://662fb51f820bdf330e5d6117--inspiring-zuccutto-b29727.netlify.app/',
+        demo: 'https://inspiring-zuccutto-b29727.netlify.app/',
         image: one
     },
  {
