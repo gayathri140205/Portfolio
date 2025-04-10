@@ -6,5 +6,5 @@ export const headerData = {
     title: "Full Stack Developer",
     desciption: "Life is a journey of faith, where hope is our compass and God's love is our guide. In the midst of challenges, we find strength in believing that every step forward is a testament to His grace.",
     image: gaya3s,
-    resumePdf: 'https://drive.google.com/file/d/13yOOTeRyY8LpMoH1nPK088M95i8bX3HL/view'
+    resumePdf: 'https://drive.google.com/file/d/1eIFzdhk6zBNtNXEqiYahVIrCy2il4NAB/view?usp=drivesdk'
 }

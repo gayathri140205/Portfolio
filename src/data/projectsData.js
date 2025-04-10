@@ -45,7 +45,24 @@ export const projectsData = [
         demo: 'https://dancing-speculoos-8b2b6c.netlify.app/',
         image:four
     },
-
+    {
+        id: 5,
+        projectName: 'Travella - Travel Website',
+        projectDesc: 'A travel booking and exploration website that helps users discover destinations, plan trips, and explore itineraries.',
+        tags: ['React', 'HTML', 'CSS'],
+        code: 'https://github.com/gayathri140205/Travella.git',
+        demo: 'https://travella-website.netlify.app/',
+        image: one
+    },
+    {
+        id: 6,
+        projectName: 'Velvet Atelier - Dessert Website',
+        projectDesc: 'A beautifully designed dessert website showcasing handcrafted treats with categories, images, and engaging UI.',
+        tags: ['React', 'CSS', 'JavaScript'],
+        code: 'https://github.com/gayathri140205/Velvet-Atelier.git',
+        demo: 'https://velvet-atelier-treats.netlify.app/',
+        image: three
+    }
    
 ]
 
