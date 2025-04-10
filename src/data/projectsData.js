@@ -45,15 +45,7 @@ export const projectsData = [
         demo: 'https://dancing-speculoos-8b2b6c.netlify.app/',
         image:four
     },
-    {
-        id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['HTML', 'CSS', 'Javascript'],
-        code: 'https://github.com/gayathri140205/DAY2-TASK-PROMISE.git',
-        demo: 'https://tourmaline-melba-42b03f.netlify.app/',
-        image: three
-    },
+
    
 ]
 
