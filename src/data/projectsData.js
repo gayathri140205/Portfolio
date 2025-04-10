@@ -61,7 +61,7 @@ export const projectsData = [
         tags: ['React', 'CSS', 'JavaScript'],
         code: 'https://github.com/gayathri140205/Velvet-Atelier.git',
         demo: 'https://velvet-atelier-treats.netlify.app/',
-        image: three
+        image: one
     }
    
 ]
